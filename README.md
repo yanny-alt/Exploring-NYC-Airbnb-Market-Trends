@@ -1,5 +1,5 @@
 # Exploring the NYC Airbnb Market
-
+![](https://github.com/yanny-alt/Exploring-NYC-Airbnb-Market-Trends/blob/main/images/nyc.jpg)
 ## Introduction
 Welcome to New York City, one of the most visited cities in the world. With its high demand for temporary lodging, the NYC Airbnb market offers a rich dataset for exploration. In this project, we aim to analyze various aspects of Airbnb listings to provide insights into the short-term rental market, specifically focusing on private rooms.
 
@@ -24,7 +24,7 @@ The data consists of three files in different formats:
 2. `airbnb_room_type.xlsx`: Contains descriptions and room types.
 3. `airbnb_last_review.tsv`: Contains host names and review dates.
 
-You can download the data files from this repository: [Data Folder](./data)
+You can download the data files from this repository: [Data Folder](./data](https://github.com/yanny-alt/Exploring-NYC-Airbnb-Market-Trends/tree/main/data%20sources)
 
 ## Project Methodology
 1. **Data Importing:** Load data from CSV, TSV, and Excel files into DataFrames.
