@@ -24,7 +24,7 @@ The data consists of three files in different formats:
 2. `airbnb_room_type.xlsx`: Contains descriptions and room types.
 3. `airbnb_last_review.tsv`: Contains host names and review dates.
 
-You can download the data files from this repository: [Data Folder](./data](https://github.com/yanny-alt/Exploring-NYC-Airbnb-Market-Trends/tree/main/data%20sources)
+You can download the data files from this repository: [Data Folder](https://github.com/yanny-alt/Exploring-NYC-Airbnb-Market-Trends/tree/main/data%20sources)
 
 ## Project Methodology
 1. **Data Importing:** Load data from CSV, TSV, and Excel files into DataFrames.
