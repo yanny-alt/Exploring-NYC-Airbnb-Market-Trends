@@ -105,4 +105,4 @@ This analysis provides valuable insights into the NYC Airbnb market, focusing on
 - Consider sentiment analysis on reviews to understand guest satisfaction.
 
 ## Contact
-For any questions or feedback, please contact me at thefavourokechukwu@example.com.
+For any questions or feedback, please contact me at thefavourokechukwu@gmail.com.
